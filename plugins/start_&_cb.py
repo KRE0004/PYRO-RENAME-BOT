@@ -69,9 +69,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
+                InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/blionriechats")
                 ],[
-                InlineKeyboardButton("❤️‍🔥 Hᴏᴡ Tᴏ Uꜱᴇ❤️‍🔥", url='https://youtu.be/4ZfvMSDXBVg')
+                InlineKeyboardButton("❤️‍🔥 Hᴏᴡ Tᴏ Uꜱᴇ❤️‍🔥", url='https://t.me/blionriechats')
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
@@ -83,9 +83,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
+                InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/blionriechats")
                 ],[
-                InlineKeyboardButton("🖥️ Hᴏᴡ Tᴏ Mᴀᴋᴇ", url="https://youtu.be/GfulqsSnTv4")
+                InlineKeyboardButton("🖥️ Hᴏᴡ Tᴏ Mᴀᴋᴇ", url="https://t.me/blionriechats")
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
@@ -97,9 +97,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
+                InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/blionriechats")
                 ],[
-                InlineKeyboardButton("🖥️ Hᴏᴡ Tᴏ Mᴀᴋᴇ", url="https://youtu.be/GfulqsSnTv4")
+                InlineKeyboardButton("🖥️ Hᴏᴡ Tᴏ Mᴀᴋᴇ", url="https://t.me/blionriechats")
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
